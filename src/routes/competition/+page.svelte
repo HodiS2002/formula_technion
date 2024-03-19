@@ -14,7 +14,7 @@
                 accomplished students felt clueless and inexperienced upon
                 entering the competitive job market. In the beginning of the
                 1980's the SAE (Society of Automotive Engineers) devised a
-                solution. Groups of Mechanical\Automotive Engineering students
+                solution. Groups of Mechanical/Automotive Engineering students
                 from all over the world will DESIGN, BUILD and RACE a formula
                 style (open wheel) vehicle.
             </p>
@@ -33,7 +33,7 @@
                 Aerospace industry.
             </p>
         </div>
-        <div class="smalltitle">HOW IS IT SCORED?</div>
+        <div class="smalltitle">HOW ARE THE SCORES DETERMINED?</div>
         <div>
             <ul>
                 Preliminary Safety Testing:
